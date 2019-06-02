@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /* eslint-disable security/detect-child-process */
 /* eslint-disable no-console */
 const fs = require("fs");

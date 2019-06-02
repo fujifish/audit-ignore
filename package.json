@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/capriza/audit-ignore.git"
   },
+  "bin": {
+    "audit-ignore": "./index.js"
+  },
   "keywords": [
     "audit",
     "ignore"

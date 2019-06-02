@@ -1,0 +1,20 @@
+{
+  "name": "audit-ignore",
+  "version": "1.0.0",
+  "description": "ignore vulnerabilities in npm audit",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capriza/audit-ignore.git"
+  },
+  "keywords": [
+    "audit",
+    "ignore"
+  ],
+  "author": "Capriza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/capriza/audit-ignore/issues"
+  },
+  "homepage": "https://github.com/capriza/audit-ignore#readme"
+}

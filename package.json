@@ -1,5 +1,5 @@
 {
-  "name": "audit-ignore",
+  "name": "@capriza/audit-ignore",
   "version": "1.0.0",
   "description": "ignore vulnerabilities in npm audit",
   "main": "index.js",
